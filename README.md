@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Rakha
 
-<!--
-**Rakhasptro/Rakhasptro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Backend Developer & Informatics Student**
 
-Here are some ideas to get you started:
+Saya seorang mahasiswa yang tertarik dengan dunia backend development dan sedang belajar membangun aplikasi menggunakan JavaScript, Node.js, dan framework modern seperti NestJS. Saat ini saya juga mengembangkan sistem absensi mahasiswa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack & Tools
+- **Languages:** JavaScript, TypeScript  
+- **Backend:** Node.js, NestJS, Hono, Express  
+- **Database:** MongoDB, Prisma ORM, Mongoose, MySql  
+- **Tools & Others:** Git, GitHub, REST API, Postman
+
+---
+
+✨ *“Code, learn, repeat.”*
