@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Rakha
-
-💻 **Aspiring Backend Developer & Informatics Student**
-
-Saya seorang mahasiswa yang tertarik dengan dunia backend development dan sedang belajar membangun aplikasi menggunakan JavaScript, Node.js, dan framework modern seperti NestJS. Saat ini saya juga mengembangkan sistem absensi mahasiswa.
-
----
+👋 Hi! I'm Rakha, a passionate computer science student who is constantly learning how to create and develop dynamic and responsive applications.
 
 ### 🔧 Tech Stack & Tools
 - **Languages:** JavaScript, TypeScript  
