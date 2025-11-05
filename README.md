@@ -3,9 +3,5 @@
 ### 🔧 Tech Stack & Tools
 - **Languages:** JavaScript, TypeScript  
 - **Backend:** Node.js, NestJS, Hono, Express  
-- **Database:** MongoDB, Prisma ORM, Mongoose, MySql  
-- **Tools & Others:** Git, GitHub, REST API, Postman
-
----
-
-✨ *“Code, learn, repeat.”*
+- **Database:** MongoDB, Prisma ORM, MySql  
+- **Tools & Others:** Git, GitHub, Postman, Linux
